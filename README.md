@@ -10,8 +10,13 @@ You can use this template to periodically top up your WRITE_KEY's balance, allow
 ## How to use this repo
 
   1. Fork it 
-  2. Enable GitHub actions
-  3. Create a GitHub secret called WRITE_KEY
+  2. Create a GitHub secret called WRITE_KEY
+  3. Enable GitHub actions
+  
+## Don't have a write_key yet? 
+
+Open up [New Key](https://github.com/microprediction/keymaker/blob/main/New_Key.ipynb) notebook in colab, and run it. 
+ 
   
 
 
