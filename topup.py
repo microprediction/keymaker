@@ -22,7 +22,7 @@ if __name__=='__main__':
             if throwaway_key is None:
                 print('Sorry, no luck this time')
             else:
-                print('Hit the jackpot ... topping up balance for '+ animal)
+                print('Hit the jackpot ... topping up balance for '+ mw.animal)
                 mw.put_balance(source_write_key=throwaway_key, amount=256)
                 print('New balance is '+str(mw.get_balance()))
         else:   
