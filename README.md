@@ -19,7 +19,11 @@ You can use this template to periodically top up your WRITE_KEY's balance using 
 
 Open up [New Key](https://github.com/microprediction/keymaker/blob/main/New_Key.ipynb) notebook in colab, and run it. 
  
-  
+
+## Pro tip
+
+To find the runs where a top up has occurred, just click on [actions](https://github.com/microprediction/keymaker/actions) and look for one that terminated earlier than the rest. 
+
 ## Install
 
 Nup. Not a package. 
