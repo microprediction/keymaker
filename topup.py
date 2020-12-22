@@ -17,5 +17,6 @@ if __name__=='__main__':
               print('Hit the jackpot ... topping up balance for '+ animal)
               mw.put_balance(source_write_key=throwaway_key, amount=256)
               print('New balance is '+str(mw.get_balance()))
-          
+      else:   
+          print('Balance for '+mw.animal+' is '+str(balance)+' so no need to top up.')
            
