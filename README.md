@@ -1,5 +1,5 @@
 # keymaker
-Example of a repository that makes itself a key and stores as secret
+Example of a repository that makes itself a key and stores it as a secret
 
 ## 
 
