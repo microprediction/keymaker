@@ -6,10 +6,13 @@ SECONDS = 60*15  # How long to spend making a throwaway key
 
 
 if __name__=='__main__':
+    # WRITE_KEY is injected into environ by GitHub action. Grab it. 
     write_key = os.environ.get('WRITE_KEY')
     if ',' in write_key:          
         write_keys = write_key.split(',')
         write_key = random.choice(write_keys)
+        
+    # Create a throwaway key and use it to bolster the balance, using a transfer. 
     if write_key is not None:
         mw = MicroWriter(write_key=write_key)
         balance = float(mw.get_balance())
