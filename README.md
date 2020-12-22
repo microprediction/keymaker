@@ -1,7 +1,7 @@
 # keymaker
 More fun that talking to an AutoML salesperson. 
 
-You can use this template to periodically top up your WRITE_KEY's balance, allowing you to use the public, open automated machine learning prediction network indefinitely. See [Microprediction.Com](https://www.microprediction.com/) if you are not yet familiar with the prediction network project. 
+You can use this template to periodically top up your WRITE_KEY's balance using GitHub Actions, allowing you to use the public, open automated machine learning prediction network indefinitely. See [Microprediction.Com](https://www.microprediction.com/) if you are not yet familiar with the prediction network project. 
 
 ## 
 
