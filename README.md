@@ -1,5 +1,4 @@
 # keymaker
-More fun that talking to an AutoML salesperson. 
 
 Unlock the open source, public prediction network. 
 
