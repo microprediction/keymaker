@@ -2,7 +2,7 @@
 
 Unlock the open source, public prediction network. 
 
-This helps you publish streams (or make predictions) indefinitely. See [Microprediction.Com](https://www.microprediction.com/) if you are not yet familiar with the prediction network project. 
+This helps you publish streams (or make predictions) indefinitely, by preventing your write_key from going broke. See [Microprediction.Com](https://www.microprediction.com/) if you are not yet familiar with the prediction network project. 
 
 ## 
 
@@ -27,3 +27,6 @@ To find the runs where a top up has occurred, just click on [actions](https://gi
 
 Nup. Not a package. 
 
+## Complete the arbitrage
+
+Launch the default crawler. See the [tutorial](https://www.microprediction.com/python-2). 
